@@ -1,0 +1,9 @@
+{
+    "success": true,
+    "tddrstatus": [
+        {"ID": 601, "statusType": 501, "statusDescription": "Open"},
+        {"ID": 602, "statusType": 501, "statusDescription": "Closed"},
+        {"ID": 603, "statusType": 502, "statusDescription": "Open"},
+        {"ID": 604, "statusType": 502, "statusDescription": "Closed"}
+    ]
+}

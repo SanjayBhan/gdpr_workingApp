@@ -1,0 +1,8 @@
+{
+    "success": true,
+    "tscope": [
+        {"ID": 200, "scopeName": "All"},
+        {"ID": 202, "scopeName": "Marketing"},
+        {"ID": 203, "scopeName": "Support"}
+    ]
+}

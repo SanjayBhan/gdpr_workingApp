@@ -1,0 +1,8 @@
+{
+    "success": true,
+    "tdivision": [
+        {"ID": 1, "divisionName": "Database Tools", "divisionMnemonic": "DbTools"},
+        {"ID": 2, "divisionName": "Development Tools", "divisionMnemonic": "DevTools"},
+        {"ID": 3, "divisionName": "DevOps", "divisionMnemonic": "DevTools"}
+    ]
+}

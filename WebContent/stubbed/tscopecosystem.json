@@ -1,0 +1,7 @@
+{
+    "success": true,
+    "tscopecosystem": [
+        {"ID": 701, "scopeID": "200", "coSystemID": "401"},
+        {"ID": 702, "scopeID": "203", "coSystemID": "401"}
+    ]
+}

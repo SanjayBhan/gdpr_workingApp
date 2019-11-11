@@ -1,0 +1,13 @@
+[{
+    "sno":10, "text": "Master Data Tables", "active":false, "expanded": true, "children": [
+        {"sno":1, "text": "DDR Status", "leaf": true, "active":true, "id":"tDdrStatus"},
+        {"sno":2, "text": "Status Type", "leaf": true, "active":true, "id":"tStatusType"},
+        {"sno":3, "text": "User", "leaf": true, "active":true, "id":"tUser"}, 
+        {"sno":4, "text": "Division", "leaf": true, "active":true, "id":"tDivision"},
+        {"sno":5, "text": "Company", "leaf": true, "active":true, "id":"tCompany"},
+        {"sno":6, "text": "Company System", "leaf": true, "active":true, "id":"tCompanySystem"},
+        {"sno":7, "text": "Scope Co System", "leaf": true, "active":true, "id":"tScopeCoSystem"},        
+        {"sno":8, "text": "System", "leaf": true, "active":true, "id":"tSystem"},
+        {"sno":9, "text": "Scope", "leaf": true, "active":true, "id":"tScope"}
+    ] 
+}]

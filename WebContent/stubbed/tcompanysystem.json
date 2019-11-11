@@ -1,0 +1,8 @@
+{
+    "success": true,
+    "tcompanysystem": [
+        {"ID": 401, "companyID": "101", "systemID": "301", "responsiblePersonID": "1"},
+        {"ID": 402, "companyID": "103", "systemID": "301", "responsiblePersonID": "2"},
+        {"ID": 403, "companyID": "108", "systemID": "303", "responsiblePersonID": "3"}
+    ]
+}

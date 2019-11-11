@@ -1,0 +1,9 @@
+{
+    "success": true,
+    "tsystem": [
+        {"ID": 301, "systemName": "SQL Jira", "systemDescription": "Jira used by SQL, Precise, UT", "systemEntryPoint": "https://jira.uptimesoftware.com"},
+        {"ID": 302, "systemName": "EMBT Jira", "systemDescription": "Jira used by DG and CG", "systemEntryPoint": "http://vmsfjira:8665/secure/Dashboard.jspa"},
+        {"ID": 303, "systemName": "Sencha Support", "systemDescription": "Sencha Support app", "systemEntryPoint": "https://support.sencha.com"},
+        {"ID": 304, "systemName": "SurveyMonkey", "systemDescription": "surveymonkey used by all", "systemEntryPoint": "https://www.surveymonkey.com"}
+    ]
+}

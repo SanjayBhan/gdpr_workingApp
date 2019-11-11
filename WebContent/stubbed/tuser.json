@@ -1,0 +1,13 @@
+{
+    "success": true,
+    "tuser": [
+        {"ID": 1, "userName": "scottpatterson", "userDisplayName": "Scott Patterson", "userPassword": "scottpatterson", "userSalt": "scottpatterson", "userIsAdmin": "1", "userIsActive": "1"},
+        {"ID": 2, "userName": "sanjay", "userDisplayName": "Sanjay Bhan", "userPassword": "sanjay", "userSalt": "sanjay", "userIsAdmin": "1", "userIsActive": "1"},
+        {"ID": 3, "userName": "admin", "userDisplayName": "Admin", "userPassword": "admin", "userSalt": "admin", "userIsAdmin": "1", "userIsActive": "1"}
+    ]
+}
+
+
+
+
+ 	

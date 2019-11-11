@@ -1,0 +1,14 @@
+.fldLabLJust    {
+	font-size        : 12px;
+    display          : block;
+    border            : solid 1px darkgray;	
+}
+.dspFormFld {
+	_border            : solid 1px darkgray;	
+	height            : 22px;
+    text-align        : left;
+    font-weight      : bold;
+    font-size        : 12px;
+	color             : red;	
+    display           : block;
+}
